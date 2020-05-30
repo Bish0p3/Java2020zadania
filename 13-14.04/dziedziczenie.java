@@ -14,6 +14,7 @@ public class dziedziczenie {
 		System.out.println(stud.Nazwisko);
 		System.out.println(stud.Pesel);
 		System.out.println(stud.Nazwa_szkoly);
+		System.out.println(stud.klasa);
 	}
 
 }
